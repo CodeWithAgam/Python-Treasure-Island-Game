@@ -1,8 +1,7 @@
-# Welcome to Python Mini Treasure Hunt Game
 # Created by Agamdeep Singh / CodeWithAgam
 # Youtube: CodeWithAgam
 # Github: CodeWithAgam
-# Instagram: @agamdeep_21, @coderagam001
+# Instagram: @coderagam001 / @codewithagam
 # Twitter: @CoderAgam001
 # Linkdin: Agamdeep Singh
 
