@@ -33,6 +33,7 @@ Your mission is to find the Treasure.
 You have to start your journey now. Take the Boat by yourself or wait for the Helicopter.
 Type 'B' for Boat or 'H' for Helicopter: 
 ```
+## License:
 
-## This project is licensed under the Apache License, Version 2.0. 
+### This project is licensed under the Apache License, Version 2.0. 
 ### You're open to make changes and contribute to the project, please make a pull request!
